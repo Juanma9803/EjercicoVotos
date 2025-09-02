@@ -128,9 +128,7 @@ public class EjercicioVotos {
         System.out.println("porcentajeCandidato2 = " + porcentajeCandidato2);
         System.out.println("porcentajeCandidato3 = " + porcentajeCandidato3);
 
-        System.out.println("votosCandidato1 = " + votosCandidato1);
-        System.out.println("votosCandidato2 = " + votosCandidato2);
-        System.out.println("votosCandidato3 = " + votosCandidato3);
+
 
 
 
